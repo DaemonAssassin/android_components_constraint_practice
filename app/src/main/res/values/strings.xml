@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ConstraintPractice</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="username_required">Username required</string>
+
+    <string-array name="cities">
+        <item>Abbotabad</item>
+        <item>Bahawalpur</item>
+        <item>Hasilpur</item>
+        <item>Islamabad</item>
+        <item>Lahore</item>
+        <item>Karachi</item>
+    </string-array>
+</resources>
